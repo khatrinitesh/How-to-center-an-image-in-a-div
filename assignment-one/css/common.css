@@ -1,0 +1,33 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	-ms-box-sizing: border-box;
+}
+
+ul{
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+
+ul li{
+	display: inline-block;
+}
+
+.container{
+	max-width: 1170px;
+	margin: 0 auto;
+}
+
+.content{
+	max-width: 980px;
+	margin: 0 auto;
+}
+
+.content img{
+	display: block;
+	margin: 0 auto;
+}
